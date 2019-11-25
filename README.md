@@ -16,5 +16,5 @@ You can read a full "how to" on Medium [here](https://medium.com/@yuriikalashnik
 ## API Reference
 The API used was the free [OpenWeather API](https://openweathermap.org)
 
-## Don't forget to add your weather KEY, you can create i file .key and insert your key, for example KEY=[your key here]
+# Don't forget to add your weather KEY, you can create a file .key and insert your key, for example KEY=[your key here]
 
